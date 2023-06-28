@@ -1,0 +1,16 @@
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\CitiesSkylinesModmenu.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\CitiesSkylinesModmenu.pdb
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\Assembly-CSharp-firstpass.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\Assembly-CSharp.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\UnityEngine.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\UnityEngine.Networking.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\UnityEngine.UI.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\ColossalManaged.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\PopsApiWrapper.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\ICities.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\bin\Release\ICSharpCode.SharpZipLib.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\obj\Release\CitiesSkylinesModmenu.csproj.CoreCompileInputs.cache
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\obj\Release\CitiesSkylinesModmenu.csproj.CopyComplete
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\obj\Release\CitiesSkylinesModmenu.dll
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\obj\Release\CitiesSkylinesModmenu.pdb
+D:\NIISI\cheats\CitiesSkylinesModmenu\CitiesSkylinesModmenu\obj\Release\CitiesSkylinesModmenu.csproj.AssemblyReference.cache
